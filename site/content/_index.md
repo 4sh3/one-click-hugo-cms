@@ -25,11 +25,9 @@ intro:
     Podemos distinguir 4 grandes grupos de tablas de paddle surf claramente
     diferenciadas entre sí.  Estos 4 tipos básicos de tablas de SUP son:
 
-    <br>
 
     Touring
 
-    <br>
 
     Ideales para hacer travesía, pasear por lagos o hacer expediciones por el
     mar explorando bellos rincones y costeando.
