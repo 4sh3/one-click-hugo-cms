@@ -26,13 +26,66 @@ intro:
     comprar que responda mejor a tus necesidades. En Standuppaddle.online las
     hemos clasificado para que encuentres lo que buscas.
 
+
 products: []
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Tipos de tablas
+  text: >+
+    podemos distinguir 4 grandes grupos de tablas de paddle surf claramente
+    diferenciadas entre sí.  Estos 4 tipos básicos de tablas de SUP son:
+
+
+    Touring
+
+
+    Ideales para hacer travesía, pasear por lagos o hacer expediciones por el
+    mar explorando bellos rincones y costeando.
+
+
+    Suelen tener buen tamaño, su forma es afilada por la proa para cortar el
+    agua y minimizar el efecto del viento, y plana por la popa para deslizar
+    rápidamente. Son parecidas a las tablas tipo Race pero algo más anchas para
+    dotarlas de mayor estabilidad. Deben tener un buen espesor para tener
+    suficiente firmeza y transportar las cosas que llevemos. Aconsejable que
+    dispongan de correas para sujetar el equipaje. Normalmente llevan una sóla
+    aleta central como quilla.
+
+
+    All Around
+
+
+    Con bordes redondeados, algo más anchas que las de touring y con una
+    estabilidad también algo superior, estas SUP son las más vendidas.
+    Polivalentes, te pueden servir tanto para entrenar como para hacer travesía,
+    o bien coger algunas olas. Además, como sirven un poco para todo, los pueden
+    utilizar distintos miembros de la familia.
+
+
+    Este tipo de paddle surf lleva habitualmente 3 aletas, una central y dos
+    laterales.
+
+
+    Surf
+
+
+    Las tablas hinchables para hacer surf suelen ser más cortas y redondas por
+    detrás y por delante, características que les permiten girar fácilmente. Sin
+    embargo los iSUP hinchables no están todavía muy conseguidos si sólo cuentas
+    con ellos para surfear, ya que se requiere una tabla muy rígida. Para
+    conseguir esa rigidez no se puede utilizar grosores de 15 cm como se hace
+    con las tablas de touring y allaround pues se perdería tacto y
+    manejabilidad. El grosor debe ser más fino, de unos 10 cm, y aunque se
+    utilizan los mejores materiales posibles estas tablas aún flexan a no ser
+    que tengas poco peso. En cualquier caso siempre es una opción válida para
+    divertirte y comenzar a cabalgar sobre las olas. Suelen montar 3 aletas.
+
+
+    Race
+
+
+    Son parecidas a las Touring pero más estrechas y con una proa muy afilada.
+    Poseen menor estabilidad y manejabilidad, sin embargo son muy rápidas por lo
+    que se utilizan para participar en carreras. Son las más caras ya que se
+    utilizan materiales muy específicos para diseñarlas.
 ---
 
