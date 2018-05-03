@@ -20,7 +20,7 @@ blurb:
     navegar sin problemas. De hecho, hay espacio y estabilidad suficiente en la
     tabla como para llevar hasta a un niño o a una mascota a bordo.
 intro:
-  heading: Tipos de tablas Stand Up Paddle
+  heading: Tipos de tablas para Stand Up Paddle
   text: >+
     Podemos distinguir 4 grandes grupos de tablas de paddle surf claramente
     diferenciadas entre sí.  Estos 4 tipos básicos de tablas de SUP son:
