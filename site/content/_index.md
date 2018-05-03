@@ -83,8 +83,8 @@ intro:
 products: []
 values:
   heading: ¿Cuál es tu tabla ideal?
-  text: >+
-    Hay infinidad de modelos así que es normal que no sepas qué tabla de SUP
+  text: >
+    Hay bastantes modelos así que es normal que no sepas qué tabla de SUP
     comprar que responda mejor a tus necesidades. En Standuppaddle.online las
     hemos clasificado para que encuentres lo que buscas.
 ---
