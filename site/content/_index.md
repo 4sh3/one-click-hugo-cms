@@ -20,18 +20,9 @@ blurb:
     navegar sin problemas. De hecho, hay espacio y estabilidad suficiente en la
     tabla como para llevar hasta a un niño o a una mascota a bordo.
 intro:
-  heading: ¿Cuál es tu tabla ideal?
+  heading: Tipos de tablas Stand Up Paddle
   text: >+
-    Hay infinidad de modelos así que es normal que no sepas qué tabla de SUP
-    comprar que responda mejor a tus necesidades. En Standuppaddle.online las
-    hemos clasificado para que encuentres lo que buscas.
-
-
-products: []
-values:
-  heading: Tipos de tablas
-  text: >+
-    podemos distinguir 4 grandes grupos de tablas de paddle surf claramente
+    Podemos distinguir 4 grandes grupos de tablas de paddle surf claramente
     diferenciadas entre sí.  Estos 4 tipos básicos de tablas de SUP son:
 
 
@@ -87,5 +78,14 @@ values:
     Poseen menor estabilidad y manejabilidad, sin embargo son muy rápidas por lo
     que se utilizan para participar en carreras. Son las más caras ya que se
     utilizan materiales muy específicos para diseñarlas.
+
+
+products: []
+values:
+  heading: ¿Cuál es tu tabla ideal?
+  text: >+
+    Hay infinidad de modelos así que es normal que no sepas qué tabla de SUP
+    comprar que responda mejor a tus necesidades. En Standuppaddle.online las
+    hemos clasificado para que encuentres lo que buscas.
 ---
 
