@@ -1,9 +1,9 @@
 ---
 title: Para Fanáticos del Paddle Surf
-subtitle: Nos encanta el StandUp Paddle
-image: /img/home-jumbotron.jpg
+subtitle: Nos encanta el Stand Up Paddle
+image: /img/stand-up-paddle-surf-tecnicas-1024x627.jpg
 blurb:
-  heading: ¿Que es el StandUp Paddel o Paddle Surf?
+  heading: ¿Que es el Stand Up Paddel o Paddle Surf?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
