@@ -1,6 +1,6 @@
 ---
 title: Para Fanáticos del Paddle Surf
-subtitle: 'Nos encanta el StandUp Paddle '
+subtitle: Nos encanta el StandUp Paddle
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
